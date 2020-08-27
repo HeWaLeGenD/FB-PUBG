@@ -13,9 +13,13 @@ Telegram : hama_software
 Instagram: 7ama_software
 
 جۆری ئەکتیڤ کردنەکە
+.
 10$ هەفتانە
+.
 25$ مانگانە
+.
 40$ دوو مانگ
+.
 100$ ساڵانە
 
 
