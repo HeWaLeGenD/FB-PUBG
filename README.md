@@ -8,6 +8,17 @@ pkg update -y ; pkg upgrade -y ; pkg install python2 -y ; pkg install git -y ; p
 
 cd FB-PUBG ; python2 FB-PUBG.py
 
-براتان حەمە سۆفتوێر
+بۆ ئەکتیڤ کردنەکەش نامەم بۆ بنێرن لە تێلیگرام 
+Telegram : hama_software
+Instagram: 7ama_software
+
+جۆری ئەکتیڤ کردنەکە
+10$ هەفتانە
+25$ مانگانە
+40$ دوو مانگ
+100$ ساڵانە
+
+
+
 
 
